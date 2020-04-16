@@ -1,4 +1,4 @@
-# ![Urban Living](mobile)
+# Urban Living,  mobile application
 
 # Some words
 The client wants three versions of a news application. The [visitors interface](https://github.com/kfrostare-Newsroom/newsroom_team2_news_app), the [admin interface](https://github.com/kfrostare-Newsroom/newsroom_team2_internal) and a [mobile application](https://github.com/kfrostare-Newsroom/newsroom_team2_mobile) plus of course a [API](https://github.com/kfrostare-Newsroom/newsroom_team2_api).
