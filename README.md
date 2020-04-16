@@ -22,36 +22,19 @@ The client wants three versions of a news application. The [visitors interface](
 | [Jaime Cruz](https://github.com/JaimeCrz) | [Johan Bons](https://github.com/johanbounce) | [Hunter Vitous](https://github.com/hmvitous) | [Anish Kanswal](https://github.com/Anish2504) | [Karolina Frostare](https://github.com/kfrostare) |
 
 ## Built with
-* Rails v.6.0.2.1
-* Ruby v.2.5.1
-* React v.16.12.0
-
-## Testing framework
-* RSpec
-* Cypress
-
-## Launched using
-* Heroku
-* Netlify
+* React.js 
+* Ionic v 5.0.0
 
 ## Dependencies
-* Ruby
-* Rails
-* RSpec
-* Puma
-* Pry
-* Coveralls
-* Factory Bot
-* Shoulda-Matchers
-* Rack-cors
-* Active_model_serializers
-* Devise_token_auth
-* Stripe-rails
-* Aws-sdk-s3
-* Geocoder
+* React-js
+* Ionic 
+* Npm package
 
 ## Setup
-Due to the use of encrypted credentials this Repo can not be cloned. However we offer it to view here on GitHub for your coding inspiration.
+* React.js
+* Ionic ( npm install -g @ionic/cli )
+* Ionic serve --lab / Ionic serve  ( To view the application )
+* [For deployment click me!](https://ionicframework.com/docs/react/your-first-app/6-deploying-mobile)
 
 ## Updates / Improvements
 
